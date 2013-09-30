@@ -1,0 +1,13 @@
+C:\Programming\SevenHills\SevenHills\DataHandling\bin\Release\DataHandling.dll
+C:\Programming\SevenHills\SevenHills\DataHandling\bin\Release\DataHandling.pdb
+C:\Programming\SevenHills\SevenHills\DataHandling\bin\Release\DataHandling.xml
+C:\Programming\SevenHills\SevenHills\DataHandling\bin\Release\LinqDynamic.dll
+C:\Programming\SevenHills\SevenHills\DataHandling\bin\Release\MvcContrib.dll
+C:\Programming\SevenHills\SevenHills\DataHandling\bin\Release\MvcContrib.xml
+C:\Programming\SevenHills\SevenHills\DataHandling\obj\Release\ResolveAssemblyReference.cache
+C:\Programming\SevenHills\SevenHills\DataHandling\obj\Release\DataHandling.Resources.resources
+C:\Programming\SevenHills\SevenHills\DataHandling\obj\Release\DataHandling.dll
+C:\Programming\SevenHills\SevenHills\DataHandling\obj\Release\DataHandling.xml
+C:\Programming\SevenHills\SevenHills\DataHandling\obj\Release\DataHandling.pdb
+C:\Programming\SevenHills\SevenHills\DataHandling\obj\Release\GenerateResource-ResGen.read.1.tlog
+C:\Programming\SevenHills\SevenHills\DataHandling\obj\Release\GenerateResource-ResGen.write.1.tlog
